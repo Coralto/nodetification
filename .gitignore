@@ -1,0 +1,4 @@
+node_modules
+sounds/*
+!sounds/alert.mp3
+!sounds/warning.mp3

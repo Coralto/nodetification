@@ -1,0 +1,24 @@
+{
+  "name": "nodetification",
+  "version": "0.0.1",
+  "description": "",
+  "main": "nodetification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Coralto/nodetification.git"
+  },
+  "keywords": [
+    "notification",
+    "sound",
+    "notification"
+  ],
+  "author": "Coralto",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Coralto/nodetification/issues"
+  }
+}
